@@ -30,7 +30,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/David-Triana55/GREND-LEARD/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/David-Triana55/David-Triana55/output/snake.svg" alt="Snake animation" />
 
 
 ###
