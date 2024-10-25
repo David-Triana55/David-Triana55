@@ -19,13 +19,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=David-Triana55&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<h2 align="left">𝕴 𝖈𝖔𝖉𝖊 𝖜𝖎𝖙𝖍</h2>
 
-###
 
-<img align="right" height="162" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif"  />
 
 
 
